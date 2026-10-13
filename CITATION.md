@@ -1,21 +1,23 @@
 When using this tool, please consider citing the following works:
 
 1. Acquah A, Chan S, and Doherty A (2026)
-[ActiNet: An Open-Source Tool for Activity Intensity Classification of Wrist-Worn Accelerometry Using Self-Supervised Deep Learning](https://arxiv.org/abs/2510.01712).
+[ActiNet: An Open-Source Tool for Activity Intensity Classification of Wrist-Worn Accelerometry Using Self-Supervised Deep Learning](https://www.nature.com/articles/s41598-026-65900-y).
 
 ```
 @article{acquah_2026,
  title = {ActiNet: an open-source tool for activity intensity classification of wrist-worn accelerometry using self-supervised deep learning},
  shorttitle = {{ActiNet}},
- url = {<http://arxiv.org/abs/2510.01712}>,
- doi = {10.48550/arXiv.2510.01712},
- urldate = {2026-06-28},
- publisher = {arXiv},
+ url = {https://www.nature.com/articles/s41598-026-65900-y},
+ doi = {10.1038/s41598-026-65900-y},
+ urldate = {2026-10-13},
+ journal = {Scientific Reports},
+ publisher = {Nature Publishing Group},
+ issn = {2045-2322},
+ language = {en},
  author = {Acquah, Aidan and Chan, Shing and Doherty, Aiden},
- month = apr,
+ month = oct,
  year = {2026},
- note = {arXiv:2510.01712 [cs.LG]},
- keywords = {Computer Science - Machine Learning},
+ keywords = {Computational biology and bioinformatics, Health care, Medical research},
 }
 ```
 
